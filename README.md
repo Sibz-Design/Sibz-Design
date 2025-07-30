@@ -3,8 +3,8 @@ Hey! I’m Sibabalwe Desemela, an IT Support Specialist and AI/ML enthusiast cur
 
 
 ## 🌐 Socials:
-[Instagram](https://www.instagram.com/siba_desss/)  
-[LinkedIn](https://www.linkedin.com/in/sibabalwe-desemela-554789253/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/siba_desss/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sibabalwe-desemela-554789253/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sibabalwedes@gmail.com) 
 
 # 💻 Tech Stack:
