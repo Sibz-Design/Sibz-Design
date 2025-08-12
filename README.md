@@ -1,7 +1,14 @@
 <p align="center">
-  <img src="https://postimg.cc/QKpCY6pT" alt="Banner" width="800"/>
+  <img src="https://postimg.cc/QKpCY6pT" alt="Descriptive banner for [Your Project/Event]" class="responsive-banner"/>
 </p>
-
+<style>
+  .responsive-banner {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+</style>
 
 # 👋🏾 Hey there...
 I’m Sibabalwe, an IT Support professional and beginner/intermediate Python programmer.I have a strong passion for AI and automation projects that make a real difference in the world.Currently, I’m focused on learning Python and expanding my skills in AI and machine learning.I’m eager to collaborate on innovative AI projects and AI automation that push boundaries.
