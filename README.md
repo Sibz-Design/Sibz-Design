@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capeitinitiative-my.sharepoint.com/:i:/r/personal/sibabalwe_desemela_capaciti_org_za/Documents/Pictures/shared%20_image.jpg?csf=1&web=1&e=f8rSFq" alt="Banner" width="800"/>
+  <img src="https://postimg.cc/QKpCY6pT" alt="Banner" width="800"/>
 </p>
 
 
