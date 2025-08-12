@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sibz-Design/Sibz-Design/refs/heads/main/asset/profile_photo.webp" alt="Sibz Design Profile Photo" width="200" style="border-radius: 50%; border: 3px solid #ddd;"/>
 </div>
-# 👋🏾 Hey there...
+
+## 👋🏾 Hey there...
+
 I’m Sibabalwe, an IT Support professional and beginner/intermediate Python programmer.I have a strong passion for AI and automation projects that make a real difference in the world.Currently, I’m focused on learning Python and expanding my skills in AI and machine learning.I’m eager to collaborate on innovative AI projects and AI automation that push boundaries.
 If you’re building something impactful and want to team up, let’s connect and create the future.
 
